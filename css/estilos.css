@@ -1,5 +1,9 @@
 
-p {
-    color: red;
+body {
+    background-color: blue;
+    color: white
+}
 
+#demo {
+    color: yellow
 }

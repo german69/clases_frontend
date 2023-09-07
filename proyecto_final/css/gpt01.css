@@ -1,0 +1,27 @@
+/*.image-container {
+    width: 200px; /* Ancho del círculo */
+/*    height: 200px; /* Alto del círculo */
+/*    overflow: hidden; /* Oculta cualquier contenido que desborde */
+/*    border-radius: 50%; /* Hace que el contenedor sea un círculo */
+/*}
+
+img {
+    width: 100%; /* Ajusta la imagen para que llene el círculo */
+/*    height: auto; /* Mantiene la proporción original de la imagen */
+/*}
+
+*/
+
+.image-container {
+    width: 200px; /* Ancho de la elipse */
+    height: 200px; /* Alto de la elipse */
+    overflow: hidden; /* Oculta cualquier contenido que desborde */
+
+    border-radius: 40% 40% 40% 40%; /* Hace que el contenedor sea una elipse vertical */
+}
+
+img {
+    width: 100%; /* Ajusta la imagen para que llene la elipse */
+    height: auto; /* Mantiene la proporción original de la imagen */
+}
+

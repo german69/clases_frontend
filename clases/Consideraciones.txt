@@ -1,0 +1,27 @@
+Diferencia entre elementos de bloque y elementos de linea
+https://www.w3schools.com/html/html_blocks.asp
+
+<form action="action_page.php" method="get>
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre" name="nombre">
+  <label for="apellido">Apellido:</label>
+  <input type="text" id="apellido" name="apellido">
+  <input type="submit"value="Enviar">
+</form>
+
+html cheatsheet selectores
+
+w3 school  CSS Fonts
+google fonts
+
+Responsive Web Design
+
+git --version
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+git init
+git config user.name "German Andersen"
+git config user.email "goa@goa.com"
+
+
